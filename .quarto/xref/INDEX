@@ -1,0 +1,26 @@
+{
+  "intro.qmd": {
+    "intro.html": "4474f736"
+  },
+  "index.qmd": {
+    "index.html": "81d80e6e"
+  },
+  "summary.qmd": {
+    "summary.html": "6447e8ab"
+  },
+  "references.qmd": {
+    "references.html": "1de08b86"
+  },
+  "Gouin-2021-Nat_Commun-Bladder_Cancer.ipynb": {
+    "Gouin-2021-Nat_Commun-Bladder_Cancer.html": "1d904bb1"
+  },
+  "spatial_transcriptome.ipynb": {
+    "spatial_transcriptome.html": "d326f3b6"
+  },
+  "intro.md": {
+    "intro.html": "e89f98c0"
+  },
+  "Rcode.qmd": {
+    "Rcode.html": "89cbae71"
+  }
+}

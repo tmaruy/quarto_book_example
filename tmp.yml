@@ -1,0 +1,24 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Test Quarto document"
+  author: "Toru Maruyama"
+  date: "2022/11/20"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: Spatial Transcriptome
+      chapters: 
+        - Gouin-2021-Nat_Commun-Bladder_Cancer.ipynb
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+
+
+

@@ -1,0 +1,23 @@
+project:
+  type: book
+  output-dir: docs
+  
+book:
+  title: Test Quarto Book
+  author: Toru Maruyama
+  #repo-url: https://github.com/uwdata/visualization-curriculum
+  repo-branch: master
+  #repo-actions: [issue]
+  #sharing: [twitter, facebook]
+  chapters:
+    - index.qmd
+    - intro.md
+    - part: Curriculum
+      chapters:
+        - Rcode.qmd
+        - spatial_transcriptome.ipynb
+
+format:
+  html:
+    theme: cosmo
+
